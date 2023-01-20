@@ -11,7 +11,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.time.Duration;
 import java.util.concurrent.TimeUnit;
 
-//Тест-кейс № 4. Создание списка покупок
+//Тест-кейс № 4. Проверка поиска товаров
 
 public class TestFor {
     public static void main(String[] args) {

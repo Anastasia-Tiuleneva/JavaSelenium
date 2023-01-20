@@ -10,6 +10,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
 import java.util.concurrent.TimeUnit;
+//Тест-кейс № 3. Проверка карточки товара
 
 public class TestThree {
     public static void main(String[] args) {
@@ -30,7 +31,7 @@ public class TestThree {
             ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView();", addBasket);
 
             addBasket.click();
-            System.out.println("Elementrd click");
+            System.out.println("Element click");
         }
         catch(TimeoutException e) {
             System.out.println("Element isn't clickable");

@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ff0fbf9-559a-44e1-9b54-d0f8068d9693" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/TessTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/TestFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/TestThree.java" afterDir="false" />
+    <list default="true" id="9ff0fbf9-559a-44e1-9b54-d0f8068d9693" name="Changes" comment="комит">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson3/TestOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/TestOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson3/TestFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/TestFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson3/TestThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/TestThree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +112,14 @@
       <option name="presentableId" value="Default" />
       <updated>1673444082301</updated>
     </task>
+    <task id="LOCAL-00001" summary="комит">
+      <created>1674212947727</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674212947727</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +132,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="комит" />
+    <option name="LAST_COMMIT_MESSAGE" value="комит" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
